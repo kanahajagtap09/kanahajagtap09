@@ -1,6 +1,23 @@
-# 💫 About Me:
-👋 Hi, I'm Krishna Kumar Jagtap<br>🚀 Advanced Computing @ IACSD Pune | C-DAC<br><br>Full Stack Developer | C++ | OOP | DSA | SQL<br><br>Building web applications, solving DSA problems, and participating in hackathons. Currently strengthening my software development and computer science fundamentals through Advanced Computing at IACSD Pune (C-DAC).<br><br>🏆 Achievements<br>🏆 SIH 2024 Finalist — Water Wise Wiki | Bangalore<br>🥇 Winner — Udaan Phase II | IPS Academy, CSI Event<br>🥉 3rd Position — Project Expo | Oriental University<br>🏆 Best Presentation — Hack Sangam | IPS Academy<br>🛰️ Bharatiya Antariksh Hackathon 2025 | ISRO<br>🤖 Google Cloud Agentic AI Day | Innovative Idea Submission<br>🏅 Appreciation Award — Udaan Phase I | IPS Academy<br>💻 SKITECH InnoThon 2.0 | 36-Hour Hackathon<br>💡 Hackathon 2025 — Team Sashakt | PIEMR
+# 💫  Hi, I'm Krishna Kumar Jagtap :--
+👋<br>🚀 Advanced Computing @ IACSD Pune | C-DAC<br><br>Full Stack Developer | C++ | OOP | DSA | SQL<br><br>Building web applications, solving DSA problems, and participating in hackathons. Currently strengthening my software development and computer science fundamentals through Advanced Computing at IACSD Pune (C-DAC).<br><br>🏆 ## 🏆 Achievements
 
+<p align="center">
+  <img src="https://img.shields.io/badge/🏆_SIH_2024-Finalist-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🥇_Udaan_Phase_II-Winner-gold?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🥉_Project_Expo-3rd_Position-orange?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🏆_Hack_Sangam-Best_Presentation-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🛰️_ISRO-Bharatiya_Antariksh_Hackathon-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤖_Google_Cloud-Agentic_AI_Day-blue?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🏅_Udaan_Phase_I-Appreciation_Award-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💻_SKITECH-InnoThon_2.0-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💡_Hackathon_2025-Team_Sashakt-darkgreen?style=for-the-badge" />
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krishnajagtap9) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna-jagtap-074964262) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jagtapkanaha987@gmail.com) 
